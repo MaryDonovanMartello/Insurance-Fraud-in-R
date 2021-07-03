@@ -10,9 +10,7 @@ This was my first data science project.  The focus of the course was statistical
 ggplot2   | tidyr | pastecs | ggm | psych | plyr  | VIM | caTools 
 QuantPsyc | dplyr | foreign | car | class | caret | ltm
 
-**Data**
-
-[claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim) 
+**Data:**  [claims](https://www.kaggle.com/patilk1/fraudulentinsuranceclaim) 
 
 
 **Models / Methods / Metrics**
